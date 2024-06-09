@@ -19,7 +19,7 @@ To run the notebook, you will need to have Python and Jupyter installed. Follow 
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/convex-optimization-experiments.git
+    git clone https://github.com/bjmxr/convex-optimization-experiments.git
     cd convex-optimization-experiments
     ```
 
